@@ -3,7 +3,7 @@
 # ⚜ Bem vindo(a) ao meu github!
 
 😎Sou amante de Tecnologia, sou fascinado por gamificação, atualmente
-sou professor de informática e entrei de cabeça na programação. "Tudo começa com a imaginação". 
+sou professor de informática e entrei de cabeça na programação. "Conhecimento é poder". 
 
 - 🦅 Formado em Administração
 - 🧠Pós Graduação em neurociêcia
